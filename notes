@@ -1,0 +1,21 @@
+https://creditcards.chase.com/freedom/Activate.aspx?jp_ltg=5pctCashBackTopNav&
+
+<div id="bullet_wrapper">
+                            <ul class="left">
+                                <li><span class="hiddenText">Item one </span><img src="images/restaurants.gif" alt="Restaurants" /></li>
+                                <li><span class="hiddenText">Item two </span><img src="images/movie_theaters.gif" alt="Movie Theaters" /></li>
+                                <li id="last"><span class="hiddenText">Item three </span><img src="images/lowes.gif" alt="Lowe's (Registered Trademark)" /></li>
+                            </ul>
+                            <div class="clearit">
+                            </div>
+                        </div>
+
+
+<div id="expanded_copy">
+                <p><b>Status:</b> <span class="green">You are activated!</span></p>
+                <p><b>Earning:</b> 5% cash back on up to $1,500 spent</p>
+                <p><b>Period:</b> April 1 - June 30, 2013</p>
+                <p><b>Categories:</b> Restaurants, Movie theaters, <a href="http://www.lowes.com/mylowes?cm_mmc=display_coop-_-chase-_-318-_-mylowes" target="_blank">Lowe's</a><sup>&reg;</sup> <img alt="third party weblinking icon" src="Images_13Q2/iconWeblinking.gif"></p>
+                <p></p>
+                <p></p>
+            </div>

@@ -1,0 +1,8 @@
+if you want to take advantage of 5% cash back on your chase freedom credit card,
+they force you to remember to come back to their website once every 3 months to
+sign up for it. this automates the process so you can just leave it running as
+a cron job.
+
+something like:
+
+0 0 17 1,4,7,10 * /path/to/script/enroll.pl
